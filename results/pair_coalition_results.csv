@@ -1,0 +1,4 @@
+coalition,script,storage_capacity_mwh,storage_cost_usd,objective_usd_per_year
+PV1+PV2,scripts/abbattery.py,40.71942936820588,637631.9107754995,1053160.2694037645
+PV1+PV3,scripts/acbattery.py,41.09966479523529,642159.9794545128,1120705.403141728
+PV2+PV3,scripts/bcbattery.py,49.567103431387864,763975.1949422868,1299136.2417057347
