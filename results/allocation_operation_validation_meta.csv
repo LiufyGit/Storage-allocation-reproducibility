@@ -1,0 +1,2 @@
+tau_0,total_shapley_cost_kusd,total_adjusted_cost_kusd,shared_storage_capacity_mwh,shared_max_discharge_power_mw,shared_annual_discharge_energy_mwh,shared_soc_min_mwh,shared_soc_max_mwh,objective_usd_per_year,PV1_optimized_multiplier,PV2_optimized_multiplier,PV3_optimized_multiplier
+2.0,988.5000000000001,988.5000000000002,63.13669267004897,2.078403838242,5494.145849096313,0.0,63.13669267004897,1601182.1458409566,1.6924327538980537,1.9249170217008562,0.8533042645231472
